@@ -9,7 +9,7 @@ Instruction.
 
 
 Credit
-Chris Kim 
+Chris Kim.
 
 Licensing 
 None
